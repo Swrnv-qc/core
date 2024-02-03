@@ -71,6 +71,7 @@ import CoreButton from "./components/inputs/CoreButton";
 import CoreCheckbox from "./components/inputs/CoreCheckbox";
 import CoreConfirmPasswordField from "./components/inputs/CoreConfirmPasswordField";
 import CoreContainedButton from "./components/inputs/CoreContainedButton";
+import CoreDateCalendar from "./components/inputs/CoreDateCalendar";
 import CoreDatepicker from "./components/inputs/CoreDatepicker";
 import CoreDateRangepicker from "./components/inputs/CoreDateRangepicker";
 import CoreDateTimePicker from "./components/inputs/CoreDateTimePicker";
@@ -303,6 +304,7 @@ export {
   CoreCheckbox,
   CoreConfirmPasswordField,
   CoreContainedButton,
+  CoreDateCalendar,
   CoreDatepicker,
   CoreDateRangepicker,
   CoreDateTimePicker,
